@@ -233,20 +233,6 @@ max_temp_time <- max_temp_row$date
 max_temp_row
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ####################################################
 
 ###Creating the NC file###
